@@ -42,6 +42,10 @@ Gemini_Clone/
 ├── package.json
 └── README.md
 
+yaml
+Copy
+Edit
+
 ---
 
 ## ⚙️ Installation & Setup
@@ -50,40 +54,62 @@ Gemini_Clone/
    ```bash
    git clone https://github.com/your-username/Gemini_Clone.git
    cd Gemini_Clone
-2. Install dependencies:
-     npm install
+Install dependencies:
 
-3. Set up your Gemini API key:
-   Create a file named .env in the root directory
-   Add the following line:
-   
-    VITE_GEMINI_API_KEY=your_api_key_here
+bash
+Copy
+Edit
+npm install
+Set up your Gemini API key:
 
-4. Run the project locally:
-   npm run dev
+Create a file named .env in the root directory
 
+Add the following line:
 
+ini
+Copy
+Edit
+VITE_GEMINI_API_KEY=your_api_key_here
+Run the project locally:
+
+bash
+Copy
+Edit
+npm run dev
 🔑 Get Your Gemini API Key
+Visit Google AI Studio
 
-1. Visit Google AI Studio
-2. Generate your Gemini API Key
-3. Copy and paste it into your .env file as shown above
+Generate your Gemini API Key
 
+Copy and paste it into your .env file as shown above
+
+🖼️ Screenshots
+Add screenshots of the UI here
+Example:
 
 📌 Future Enhancements
-
 ✅ Add chat history
+
 🔊 Voice input/output
+
 🧠 User authentication
+
 🌙 Dark mode toggle
+
 🧾 Message saving to backend (Firebase/Supabase)
-   
+
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
 🙌 Acknowledgments
-   Google Generative AI SDK
-   React Documentation
+Google Generative AI SDK
+
+React Documentation
+
+yaml
+Copy
+Edit
+
+---
 
 Let me know if you want me to generate a **GitHub repo description** or help you publish it live on GitHub Pages or Vercel.
-
