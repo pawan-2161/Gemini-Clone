@@ -4,7 +4,7 @@
 
 # Gemini Clone
 
-![created-at](https://img.shields.io/badge/created%20at-July%202025-yellow)
+![created-at](https://img.shields.io/badge/created%20at-June%202025-yellow)
 ![Repo Size](https://img.shields.io/badge/repo%20size-209%20KiB-blue)
 ![wakatime](https://img.shields.io/badge/wakatime-16%20hrs%207%20mins-blue)
 
