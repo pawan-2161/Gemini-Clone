@@ -42,10 +42,6 @@ Gemini_Clone/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Installation & Setup
@@ -82,10 +78,6 @@ Visit Google AI Studio
 Generate your Gemini API Key
 
 Copy and paste it into your .env file as shown above
-
-🖼️ Screenshots
-Add screenshots of the UI here
-Example:
 
 📌 Future Enhancements
 ✅ Add chat history
