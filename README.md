@@ -4,14 +4,14 @@
 
 # Gemini Clone
 
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Gemini-Clone)
-![Repo Size](https://img.shields.io/github/repo-size/RanitManik/Gemini-Clone)
-![Discussions](https://img.shields.io/github/discussions/RanitManik/Gemini-Clone)
-![License](https://img.shields.io/github/license/RanitManik/Gemini-Clone)
-![Forks](https://img.shields.io/github/forks/RanitManik/Gemini-Clone?style=default)
-![Stars](https://img.shields.io/github/stars/RanitManik/Gemini-Clone?style=default)
-![Vercel Deploy Status](https://deploy-badge.vercel.app/vercel/Gemini-Clone)
-![Wakatime](https://wakatime.com/badge/github/RanitManik/Gemini-Clone.svg)
+![created-at](https://img.shields.io/badge/created%20at-July%202025-yellow)
+![Repo Size](https://img.shields.io/badge/repo%20size-209%20KiB-blue)
+![discussions](https://img.shields.io/badge/discussions-1%20total-blue)
+![license](https://img.shields.io/badge/license-MIT-brightgreen)
+![forks](https://img.shields.io/badge/forks-13-blue)
+![stars](https://img.shields.io/badge/stars-26-blue)
+![vercel](https://img.shields.io/badge/vercel-deployed-brightgreen)
+![wakatime](https://img.shields.io/badge/wakatime-16%20hrs%207%20mins-blue)
 
 </div>
 
